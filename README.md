@@ -1,4 +1,4 @@
-#**Playwright tests
+#**Playwright tests**
 
 This project contains some basic login, sorting, and cart tests using Playwright (Vanilla Javascript) on the https://baldai1.lt page.
 Before running the tests, ensure that you have the following installed:
